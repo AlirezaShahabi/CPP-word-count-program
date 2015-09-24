@@ -1,0 +1,2 @@
+
+The keys in a map or a set must be unique; there can be only one element with a given key. The multimap and multiset containers have no such restriction; there can be several elements with the same key. For example, the map we used to count words must have only one element per given word. On the other hand, a dictionary could have several definitions associated with a particular word.
